@@ -1,1 +1,1 @@
-# Kernels_PCA_Eigenface
+# Kernels, PCA, Eigenface 
